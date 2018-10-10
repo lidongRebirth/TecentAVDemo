@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TecentAVDemo</string>
+    <string name="title_activity_enter_room">EnterRoomActivity</string>
+</resources>
